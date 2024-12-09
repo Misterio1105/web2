@@ -2814,6 +2814,7 @@ body {
   }
   .repair-section {
     margin-top: 160px;
+    margin-bottom: 100px;
     height: 130vh;
     margin-left: 45px;
   }
@@ -2849,7 +2850,6 @@ body {
     display: none;
   }
   .clients {
-    margin-top: 200px;
     margin-left: 35px;
     padding: 0px 0px 50px 0px;
   }
