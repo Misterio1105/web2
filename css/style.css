@@ -2850,6 +2850,7 @@ body {
     display: none;
   }
   .clients {
+    margin-top: 300px;
     margin-left: 35px;
     padding: 0px 0px 50px 0px;
   }
